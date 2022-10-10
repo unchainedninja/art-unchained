@@ -1,0 +1,156 @@
+{
+  "name": "Art Unchained - Verified Artists",
+  "logoURI": "https://lh3.googleusercontent.com/OvU49NtWWEHZz1JFzteKLiQjhU3UBg4tftUlNrE3JYVURlqrqa5hdErP8ISW5AfayOkX7ar_5BCjmLF_zgglXsnD-cjk1RH8XAU8=s168",
+  "baseURL": "https://www.art-unchained.io",
+  "collectionURL": "https://opensea.io/collection/freedom-web3",
+  "itemURL": "https://opensea.io/collection/freedom-web3/{chainID}/{collectionId}/{tokenId}",
+  "keywords": [
+    "audited",
+    "verified"
+  ],
+  "tags": {
+    "photo": {
+      "name": "Photography",
+      "description": "Photography projects"
+    },
+    "art": {
+      "name": "Art",
+      "description": "Art projects"
+    },
+    "painting_p": {
+      "name": "Physical painting",
+      "description": "Art with physical painting elements"
+    },
+    "painting_d": {
+      "name": "Digital painting",
+      "description": "Art with digital painting elements"
+    },
+    "neo-ex": {
+      "name": "Neo-expressionism",
+      "description": "Art containing neo-expressionism style"
+    },
+    "fig": {
+      "name": "Figurative",
+      "description": "Figurative art"
+    },
+    "animal": {
+      "name": "Animal",
+      "description": "Art containing animals"
+    },
+    "landscape": {
+      "name": "Landscape",
+      "description": "Art containing landscapes"
+    },
+    "still": {
+      "name": "Still Life",
+      "description": "Art containing still life elements"
+    }
+  },
+  "timestamp": "2022-10-10T00:00:00+00:00",
+  "collections": [
+    {
+      "chainId": 1,
+      "address": "0xCdC7bcE8121BC97a42061aAD637684863C907298",
+      "name": "Fer Caggiano - Manifold",
+      "logoURI": "https://i.seadn.io/gae/fYM_3MaxcCLirjyb5OnkaaVJh-zDFdi9PwzC9ki9tDLsxR59lsT5fcniZXO0OV6qG7lerphmhlWfcP--lUBsCZKwwL0A2tmfh4dc?auto=format&w=600",
+      "tags": [
+        "art","painting_d","fig","neo-ex"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x27C6978cD8f5f7Ff0Eb635F2C7C8065107c5cf7f",
+      "name": "Fer Caggiano - Editions ERC-1155",
+      "logoURI": "https://i.seadn.io/gcs/files/ac07f9bfdb683c06f7fd62204ebdf2cb.jpg?auto=format&w=600",
+      "tags": [
+        "art","painting_d","fig","still"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xD751E435Fd2C1E3fc0aE4eFf582DeF5B87dbE3c6",
+      "name": "Fer Caggiano - Playing With Fire",
+      "logoURI": "https://i.seadn.io/gae/u1LqLDkBBOgdAW17o6Q6EtliLe00gdKJJ8s2QCehSMG2nTo9MmqB3trm4R289lUjHIpJCSpK9qfCGzy_zQkCWRkQOnSN3P5_Qu51lg?auto=format&w=600",
+      "tags": [
+        "art","photography","painting_d","fig"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xDf49853dA850E60612E2AA8234617A039F02024b",
+      "name": "Fer Caggiano - Senses",
+      "logoURI": "https://i.seadn.io/gae/4emdXwMqGmANh9nz44iMt0WCTm1wJW6lj9b-5kwRXsm6J9pljznfw0mCQijYCdSkKWVGRWikci4VkGpNJ2U1qwTzpz6DWDRv8v4Q9w?auto=format&w=600",
+      "tags": [
+        "art","painting_d","fig"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x46864b5B96f0963748a9aed161D1525562A9EC53",
+      "name": "THE ART MEMES",
+      "logoURI": "https://openseauserdata.com/files/aa632893f9fd59cc179cad7e688bae53.jpg",
+      "tags": [
+        "memes","art"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x25692da406889bF4dB93f921063D9bC952bD01d0",
+      "name": "We Are Itsuki",
+      "logoURI": "https://openseauserdata.com/files/e18b048748f65de0d946374f0ebd8c9d.jpg",
+      "tags": [
+        "pfp"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x38dc84a9Bc6d5880565B00f4A9FD41dd74344448",
+      "name": "MonikasArt",
+      "logoURI": "https://lh3.googleusercontent.com/5ht0qHLgq3DbD_ocZX09s03080LB4Gv2ug61-I-bjKjNVO1W0QNewpEAFQzT2Hsuzv2D7b6WQarnaa-YQqp42BOWFPQz7T0co8O5CMY=s168",
+      "tags": [
+        "art"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x973cda796f8cc05c4bf22964b13035125060f0d4",
+      "name": "MonEditions",
+      "logoURI": "https://openseauserdata.com/files/cf180093e3630a508697362a9f5f3d68.png",
+      "tags": [
+        "art"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa151B506CDb764f1eE58EDf4aCba959eC783fF65",
+      "name": "Futuristic Nostalgia by Tivuel",
+      "logoURI": "https://openseauserdata.com/files/2818fe398fd72ed716d26dacc82c96a7.png",
+      "tags": [
+        "art"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xe7a49073905c68153449472e054041638d0FF547",
+      "name": "Alnwick Chapters",
+      "logoURI": "https://f8n-production.imgix.net/collections/ed9yskwqj-scigirl.jpg?q=45&w=160&h=160&fit=crop&dpr=2",
+      "tags": [
+        "art"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1E6ed8aD45Eb16285870965f890402a8FFD871a8",
+      "name": "FloLady Ochie",
+      "logoURI": "https://openseauserdata.com/files/0979063b4cf2c8fdff46a13a911fd33f.jpg",
+      "tags": [
+        "art"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
