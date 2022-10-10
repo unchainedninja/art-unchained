@@ -2,8 +2,8 @@
   "name": "Art Unchained",
   "logoURI": "https://lh3.googleusercontent.com/OvU49NtWWEHZz1JFzteKLiQjhU3UBg4tftUlNrE3JYVURlqrqa5hdErP8ISW5AfayOkX7ar_5BCjmLF_zgglXsnD-cjk1RH8XAU8=s168",
   "baseURL": "https://www.art-unchained.io",
-  "collectionURL": "https://opensea.io/collection/freedom-web3",
-  "itemURL": "https://opensea.io/collection/freedom-web3/{chainID}/{collectionId}/{tokenId}",
+  "collectionURL": "https://www.art-unchained.io/#{collectionId}",
+  "itemURL": "https://www.art-unchained.io/#{collectionId}",
   "keywords": [
     "audited",
     "verified"
